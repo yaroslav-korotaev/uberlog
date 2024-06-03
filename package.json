@@ -1,13 +1,6 @@
 {
   "name": "uberlog",
-  "version": "0.1.1",
-  "description": "Simple bunyan-style logger",
-  "keywords": [
-    "uberlog",
-    "log",
-    "logger",
-    "bunyan"
-  ],
+  "version": "1.0.0",
   "bugs": "https://github.com/yaroslav-korotaev/uberlog/issues",
   "license": "MIT",
   "author": "Yaroslav Korotaev <yaroslav.korotaev@gmail.com>",
@@ -20,7 +13,7 @@
   "scripts": {},
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^18.7.3",
-    "typescript": "^4.7.4"
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.5"
   }
 }
